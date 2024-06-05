@@ -1,4 +1,6 @@
-## Hi there 👋
+# Bren - Transformamos Conversas em Vendas 🤖💻
+
+Somos a Bren, a IA que se comunica com seus clientes, com a voz da sua marca, através do WhatsApp, 24 horas por dia. Nossa missão é transformar conversas em vendas, otimizando o processo de atendimento ao cliente e impulsionando as vendas de sua empresa.
 
 <!--
 
